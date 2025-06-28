@@ -1,2 +1,2 @@
-# Swing_Your_Mood
+# Swing_Your_Mood(Online Drink Ordering Website)
 This a Full Stack where we used PHP as a backend Technology and MySQL as a Database. This a Online 18+ Drink  and Soft drink Ordering Website. The Main Reason for Developing this Website is to Control the Alcohol Consumption. We can achieve this by restricting the users to buy fixed no.of Alchohol drinks per day. We use Users Aadhar Card for Uniqueness which makes them limiting their Alcohol purchases.
